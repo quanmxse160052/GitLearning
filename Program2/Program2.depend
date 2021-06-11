@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623293181 source:e:\summer-2021\prf192\code\workshop3-maixuanquan\program2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
